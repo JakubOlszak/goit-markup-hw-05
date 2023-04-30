@@ -255,13 +255,6 @@ body {
   cursor: pointer;
 }
 
-.middle {
-  display: flex;
-  justify-content: center;
-  padding-left: 3px;
-  padding-top: 3px;
-}
-
 /* Nasze atuty, Czym się zajmujemy i Nasz zespół  */
 
 .list {
